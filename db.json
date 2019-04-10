@@ -1,0 +1,24 @@
+{
+    "parsers": [
+        {
+            "_id": 1,
+            "parser": "PSR_HW_FIXED",
+            "version": "1.0.5"
+        },
+        {
+            "_id": 2,
+            "parser": "PSR_MSS_BINARY",
+            "version": "1.0.8"
+        },
+        {
+            "_id": 3,
+            "parser": "PSR_CFX5000_ASN1",
+            "version": "2.0.45"
+        },
+        {
+            "_id": 4,
+            "parser": "PSR_NGIN_CSV",
+            "version": "3.0.7"
+        }
+    ]
+}
