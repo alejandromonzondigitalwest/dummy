@@ -24,22 +24,22 @@
     "mappers": [
         {
             "_id": 1,
-            "parser": "MPRS_HW_FIXED",
+            "mapper": "MPRS_HW_FIXED",
             "version": "1.0.5"
         },
         {
             "_id": 2,
-            "parser": "MPRS_MSS_BINARY",
+            "mapper": "MPRS_MSS_BINARY",
             "version": "1.0.8"
         },
         {
             "_id": 3,
-            "parser": "MPRS_CFX5000_ASN1",
+            "mapper": "MPRS_CFX5000_ASN1",
             "version": "2.0.45"
         },
         {
             "_id": 4,
-            "parser": "MPRS_NGIN_CSV",
+            "mapper": "MPRS_NGIN_CSV",
             "version": "3.0.7"
         }
     ]
